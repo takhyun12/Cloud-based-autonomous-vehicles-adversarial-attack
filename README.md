@@ -5,9 +5,9 @@
 
 ## Status: 완료
 
-![1](https://user-images.githubusercontent.com/41291493/109094637-aba03800-775d-11eb-84aa-d3f6dc363c94.png)
-![2](https://user-images.githubusercontent.com/41291493/109094642-ae029200-775d-11eb-8774-11e7296fa296.png)
-![3](https://user-images.githubusercontent.com/41291493/109094645-af33bf00-775d-11eb-893a-cfa082878e40.png)
+![1](https://user-images.githubusercontent.com/41291493/109094841-fcb02c00-775d-11eb-89dc-61d885cef0ea.png)
+![2](https://user-images.githubusercontent.com/41291493/109094851-ff128600-775d-11eb-85fb-b75b69bba58b.png)
+![3](https://user-images.githubusercontent.com/41291493/109094853-0043b300-775e-11eb-84e4-f392c7081893.png)
 
 ### 핵심목표
 1) x64dbg for Cyber Operations Command의 바이너리를 자동으로 인식하여 실행 (완료)
