@@ -25,7 +25,7 @@
 ---
 
 ### Requirement
-* Tensorflow 3x
+* python 3x
 * cv2
 * numpy
 * tensorflow
