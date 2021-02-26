@@ -1,6 +1,6 @@
 # A Study on vulnerability of recognition area for Cloud-based autonomous vehicles using Light-weight Seam Carving
 #### 본 연구는 자율주행 차량의 실시간 영상을 해석하고 처리하는 개체 인식 서비스를 공격하는 알고리즘을 구현하고자 한다. 
-#### Tiny-YOLO를 통해 인식된 차량과 도로 개체의 영역을 개선된 Seam Carving을 통해 실시간으로 제거하는 방식이다.
+#### `Tiny-YOLO`를 통해 인식된 차량과 도로 개체의 영역을 개선된 `Seam Carving`을 통해 실시간으로 제거하는 방식이다.
 
 ## Author: Tackhyun Jung
 
