@@ -37,5 +37,3 @@
 ```
 > python {script}.py
 ```
-
----
